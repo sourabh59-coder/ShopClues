@@ -1,7 +1,7 @@
 <div align="center">
 
 # ShopClues
-   <b>Repository : </b> [[https://github.com/harshgupta1249/Bloggy-Backend](https://github.com/sourabh59-coder/ShopClues)](https://github.com/sourabh59-coder/ShopClues)<br><br>
+   <b>Repository : </b> (https://github.com/sourabh59-coder/ShopClues)](https://github.com/sourabh59-coder/ShopClues)<br><br>
    ![1  Home](https://user-images.githubusercontent.com/77907942/211987873-82e4d57d-cca1-403d-b810-c2dddc0da1dc.png)
 
    <br><br><br>
